@@ -8,8 +8,4 @@ in this repository you will see an html css template for a cool designed e-comme
 
 ## :heavy_check_mark: Authors
 
--   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
-
-## :heavy_check_mark: License
-
-free for everyone to use in any good purposes :heart:
+-  ![image](https://user-images.githubusercontent.com/116089212/205221866-fb75065e-4bd0-4d39-a3aa-17a4fb52c559.png)
